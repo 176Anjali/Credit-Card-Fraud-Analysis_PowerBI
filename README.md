@@ -132,11 +132,6 @@ This project demonstrates practical experience in:
 
 The project was completed as part of a team-based academic assignment.
 
-## 👩‍💻 Author
-
-**Anjali Uttarkar**
-
-GitHub: <https://github.com/176Anjali>
 
 ## 📌 Note
 
